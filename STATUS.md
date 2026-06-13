@@ -1,8 +1,8 @@
 # STATUS
 
 **Last updated:** 2026-06-13
-**State:** Source-reread revision built and opened; ready to commit and push.
-**Next action:** Commit and push the source-checked draft. Later: decide whether to edit the central `boyd1999` pagination.
+**State:** Source-reread revision built, opened, committed, and pushed.
+**Next action:** Await Brett's review. Later: decide whether to edit the central `boyd1999` pagination.
 **Blocker:** None.
 
 ## Working Thesis
