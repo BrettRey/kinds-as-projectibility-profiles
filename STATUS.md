@@ -1,8 +1,8 @@
 # STATUS
 
 **Last updated:** 2026-06-13
-**State:** Post-review revision pass drafted and built.
-**Next action:** Final diff check, commit, push, and reopen `main.pdf`.
+**State:** Final copyedit pass built, opened, and ready to circulate.
+**Next action:** Commit and push final circulation draft.
 **Blocker:** None.
 
 ## Working Thesis
@@ -41,3 +41,5 @@ This should be a synthetic position paper, not a full new theory paper. Its job 
 - Rebuilt and opened `main.pdf`; log scan showed no unresolved citation/reference warnings and no overfull/underfull boxes. Remaining LaTeX warnings are the known `fancyhdr`/`microtype` preamble warnings; style checker reports only two cadence warnings.
 - Ran complete duplicate review board: six named standpoint seats with Codex and the same six with Opus. Outputs and synthesis are in `notes/review-board/`. Main signal: the architecture works, but the next pass should protect the order/stabilization distinction, clarify `kind` scope, clean up stabilizer terminology, and add or defer a worked micro-case.
 - Completed the follow-up revision pass: declared inclusive `kind`, split Q4 ordering from Q5 stabilization, removed evidential order as a worldly ordering relation, allowed robust stability without an identified separable stabilizer, added a compact truth-tracking evaluation micro-case, rewrote the conclusion around two axes, downgraded the Boyd attribution to "broadly Boydian", and made the AI acknowledgement less version-specific. Also corrected central `boyd1999` pagination to 141--185 after web verification.
+- Completed final circulation copyedit: fixed the article before `stabilizer`, verified `here with care`, standardized Canadian/Oxford spellings, added the concise stabilizer/maintainer/controller example, added the mechanism-first contrast, made the inclusive `kind` deflation explicit, and added a short conclusion paragraph on what the framework leaves open.
+- Final checks passed: `make` reports the PDF current, `git diff --check` is clean, PDF text has correct bibliography spacing for "R. A. Wilson" and "New interdisciplinary", and the log has no unresolved citations/references or overfull/underfull boxes. Remaining warnings are the known `fancyhdr`/`microtype` warnings; style checker reports only two cadence warnings.

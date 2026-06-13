@@ -42,6 +42,8 @@
 
 2026-06-13 — Use `kind` inclusively for any projectibility profile, with `natural kind` and `homeostatic` as stronger separable claims. Reason: the Khalidi guardrail makes the sense of `kind` matter.
 
+2026-06-13 — State explicitly that the inclusive use of `kind` shifts discrimination from a single kind/non-kind boundary to tiers of support. Reason: this bites the intended bullet openly and preempts the natural-kinds-are-special objection.
+
 2026-06-13 — Edit the central `boyd1999` pagination to 141--185. Reason: PhilPapers, the Stanford Encyclopedia species bibliography, Springer references, and PMC-indexed bibliographies support 141--185; the 141--186 listing appears to come from a ResearchGate draft/listing.
 
 2026-06-13 — Make the AI acknowledgement less version-specific: "OpenAI Codex and Claude Opus." Reason: exact model strings are more likely to go stale than tool-family names.
