@@ -59,3 +59,9 @@
 2026-06-13 — Use Canadian permanent resident as the social/conventional hinge against GFA. Reason: GFA classifies constitutively dependent categories as non-natural, while this paper treats them as scoped kinds when they license institution-bounded projections; this makes the support-tier view concrete.
 
 2026-06-13 — Add Ludwig 2018 as the constructive contrast. Reason: Ludwig recommends letting go of "natural kind"; this paper keeps kind talk by replacing the single kind/non-kind boundary with tiers of support and declared scope.
+
+2026-06-13 — Do not cite Barrett and Miller's categorization review in this paper. Reason: it usefully aligns category construction with prediction, action, and generalization, but foregrounding it would pull this vocabulary note toward neural mechanisms and allostasis.
+
+2026-06-13 — Add explicit referee-preemption guardrails without creating an objections section. Reason: the Goodman circularity, scope-gerrymandering, stabilizer-relativity, dependence-pluralism, and deflated-kind objections can each be answered locally in the existing argument.
+
+2026-06-13 — Keep humour implicit. Reason: the taxonomy already has dry wit in `decorative mechanism`, `over-homeostatization`, and the promotion ladder; visible jokes would weaken the paper's disciplinary tone.

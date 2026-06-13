@@ -1,7 +1,7 @@
 # STATUS
 
 **Last updated:** 2026-06-13
-**State:** GFA positioning pass built and ready to circulate.
+**State:** Objection-preemption pass built and ready to circulate.
 **Next action:** Commit and push revised circulation draft.
 **Blocker:** None.
 
@@ -49,3 +49,7 @@ This should be a synthetic position paper, not a full new theory paper. Its job 
 - Added the GFA positioning block in §1 after verifying the chapter against UMN Manifold and Thomas Reydon's selected-papers page. The paper now concedes the structural overlap with Ereshefsky and Reydon's grounded functionality account, keeps the strong inference-first line, and treats stable microbial re-identification and descent-based taxonomy as projections rather than counterexamples.
 - Added Ludwig 2018 as the constructive contrast: keep kind talk, but replace the single kind/non-kind line with support tiers and scope conditions. Verified the Ludwig entry against Cambridge Core and Wageningen Research Portal.
 - Final build after the GFA pass succeeded via explicit XeLaTeX/Biber sequence. PDF remains 8 pages; final log scan shows no unresolved citation/reference warnings and no overfull/underfull boxes. Remaining warnings are the known `fancyhdr`/`microtype` preamble warnings.
+- Completed hostile-referee preemption pass: added a Goodman/regulative-scope disclaimer, an anti-gerrymander clause for localization, a stabilizer-relativity clarification for social/conventional kinds, a dependence-pluralism guardrail for Q4, and an explicit comparative reading of inclusive `kind`.
+- Assessed Barrett and Miller's 2026 categorization paper as adjacent but not necessary for this vocabulary note. Decision: leave it uncited here to avoid pulling the paper toward neural mechanism and allostasis.
+- Assessed humour options. Decision: keep the paper's existing dry wit in the taxonomy, but add no visible jokes in this pass.
+- Final build after the objection-preemption pass succeeded via explicit XeLaTeX/Biber sequence. PDF is 9 pages; final log scan shows no unresolved citation/reference warnings and no overfull/underfull boxes. Remaining warnings are the known `fancyhdr`/`microtype` preamble warnings.
