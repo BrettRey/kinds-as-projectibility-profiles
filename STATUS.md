@@ -1,8 +1,8 @@
 # STATUS
 
 **Last updated:** 2026-06-13
-**State:** Final copyedit pass built, opened, and ready to circulate.
-**Next action:** Commit and push final circulation draft.
+**State:** Weinberger/control-point and prose-rhythm pass built and ready to circulate.
+**Next action:** Commit and push revised circulation draft.
 **Blocker:** None.
 
 ## Working Thesis
@@ -43,3 +43,6 @@ This should be a synthetic position paper, not a full new theory paper. Its job 
 - Completed the follow-up revision pass: declared inclusive `kind`, split Q4 ordering from Q5 stabilization, removed evidential order as a worldly ordering relation, allowed robust stability without an identified separable stabilizer, added a compact truth-tracking evaluation micro-case, rewrote the conclusion around two axes, downgraded the Boyd attribution to "broadly Boydian", and made the AI acknowledgement less version-specific. Also corrected central `boyd1999` pagination to 141--185 after web verification.
 - Completed final circulation copyedit: fixed the article before `stabilizer`, verified `here with care`, standardized Canadian/Oxford spellings, added the concise stabilizer/maintainer/controller example, added the mechanism-first contrast, made the inclusive `kind` deflation explicit, and added a short conclusion paragraph on what the framework leaves open.
 - Final checks passed: `make` reports the PDF current, `git diff --check` is clean, PDF text has correct bibliography spacing for "R. A. Wilson" and "New interdisciplinary", and the log has no unresolved citations/references or overfull/underfull boxes. Remaining warnings are the known `fancyhdr`/`microtype` warnings; style checker reports only two cadence warnings.
+- Added Weinberger 2026 as the third external pressure point: Slater for stability, Khalidi for order, Weinberger for control. Added a verified local bibliography entry for `Homeostasis and Causal Control` with volume 41, issue 2, article 18, DOI `10.1007/s10539-026-10018-8`.
+- Completed a prose-rhythm pass: reduced the non-deliberate `The X is` paragraph starts, shortened the §4 level catalogue, removed the flat Boydian programmatic-role sentence, compressed the roadmap, and moved the conclusion to end on the five profile questions. Preserved the §4 isocolon and §5 failure-mode checklist cadence by design.
+- Rebuilt successfully with `make`; final log scan shows no unresolved citation/reference warnings and no overfull/underfull boxes. Remaining LaTeX warnings are the known `fancyhdr`/`microtype` preamble warnings. Style checker reports one intentional cadence warning for the §5 failure-mode checklist.

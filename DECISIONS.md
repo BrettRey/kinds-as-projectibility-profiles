@@ -47,3 +47,7 @@
 2026-06-13 — Edit the central `boyd1999` pagination to 141--185. Reason: PhilPapers, the Stanford Encyclopedia species bibliography, Springer references, and PMC-indexed bibliographies support 141--185; the 141--186 listing appears to come from a ResearchGate draft/listing.
 
 2026-06-13 — Make the AI acknowledgement less version-specific: "OpenAI Codex and Claude Opus." Reason: exact model strings are more likely to go stale than tool-family names.
+
+2026-06-13 — Use Weinberger 2026 as the external anchor for the control point. Reason: Slater marks stability, Khalidi marks order, and Weinberger's account of homeostasis and causal control marks the strict controller tier.
+
+2026-06-13 — Add a project-local verified Weinberger entry rather than editing the central bibliography. Reason: the central house-style bibliography currently has unrelated uncommitted changes; the local entry preserves the issue number supplied by the publisher/Crossref without bundling central-bib churn into this paper commit.
