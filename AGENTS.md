@@ -34,10 +34,10 @@ The multiple runs are necessary to resolve all cross-references and citations.
 ```
 Kinds_as_Projectibility_Profiles/
 ├── main.tex                  # Main document
-├── references.bib            # Bibliography
-├── .house-style/             # House style snapshot
-│   ├── preamble.tex         # LaTeX preamble
-│   └── style-rules.yaml     # Style conventions
+├── references.bib            # Symlink to central bibliography
+├── .house-style/             # Symlinks to central house style
+│   ├── preamble.tex          # Symlink to central LaTeX preamble
+│   └── style-rules.yaml      # Symlink to central style conventions
 ├── Makefile                  # Build automation
 ├── CLAUDE.md                 # This file
 ├── AGENTS.md                 # Synced with this file
@@ -46,7 +46,7 @@ Kinds_as_Projectibility_Profiles/
 
 ## House Style
 
-This project uses Brett Reynolds house style (see `.house-style/style-rules.yaml`).
+This project uses Brett Reynolds' central house style by symlink (see `.house-style/style-rules.yaml`).
 
 ### Key LaTeX Conventions
 
@@ -115,9 +115,11 @@ This project uses Brett Reynolds house style (see `.house-style/style-rules.yaml
 ## Common Tasks
 
 **Adding References:**
-1. Add entry to `references.bib`
-2. Protect capitals: `title = {The {Cambridge} Grammar...}`
-3. Use `\textcite{key}` or `\citep{key}`
+1. Search the central bibliography symlinked at `references.bib`
+2. Add project-specific verified entries to `references-local.bib` only when needed
+3. Do not edit the central bibliography from inside this project unless Brett explicitly asks
+4. Protect capitals: `title = {The {Cambridge} Grammar...}`
+5. Use `\textcite{key}` or `\citep{key}`
 
 **Building:**
 ```bash
