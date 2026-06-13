@@ -1,8 +1,8 @@
 # STATUS
 
 **Last updated:** 2026-06-13
-**State:** Duplicate Codex/Opus review board complete and pushed.
-**Next action:** Revision pass: fix the Section 6 order/stabilization axis collapse, declare the inclusive sense of `kind`, clean up stabilizer/Q4-Q5 wording, and decide whether to add one worked micro-case. Later: decide whether to edit the central `boyd1999` pagination.
+**State:** Post-review revision pass drafted and built.
+**Next action:** Final diff check, commit, push, and reopen `main.pdf`.
 **Blocker:** None.
 
 ## Working Thesis
@@ -36,7 +36,8 @@ This should be a synthetic position paper, not a full new theory paper. Its job 
 - Built successfully with `make`; final log scan showed no unresolved citation/reference warnings and no overfull/underfull boxes. Remaining style-script output is cadence warnings in definition-heavy paragraphs.
 - Added `README.md` and CC BY 4.0 `LICENSE` for the public GitHub repository.
 - Revised `main.tex` after follow-up review: reserved `profile` for the worldly property-and-relation pattern, moved diagnostics/stabilizers/failure modes into the profile specification, narrowed `stabilizer`, clarified the Q3/Q4 split, promoted the decorative-mechanism test into Section 3, made the truth-tracking example prediction-first, and added the regulative-contribution/constitutive-thesis caveat.
-- Web-checked Boyd 1999 pagination. PhilPapers, Stanford Encyclopedia, Springer references, and other indexed bibliographies mostly give pp. 141--185; a ResearchGate draft/listing gives 141--186. Central `references.bib` still has 141--186 pending explicit central-bib edit.
+- Web-checked Boyd 1999 pagination. PhilPapers, Stanford Encyclopedia, Springer references, and other indexed bibliographies mostly give pp. 141--185; a ResearchGate draft/listing gives 141--186. The central `references.bib` entry was corrected later in this session.
 - Reread the four portfolio anchor papers one by one and checked the external load-bearing sources via local source notes/text. Source-grounded fixes: credited Slater's stability as already projectibility-shaped, added Boyd's programmatic/explanatory definition distinction, added a Khalidi guardrail for non-causal extensions of network order, separated typological measurement design from actual stabilizers, and sharpened the truth-tracking route-specific prediction.
 - Rebuilt and opened `main.pdf`; log scan showed no unresolved citation/reference warnings and no overfull/underfull boxes. Remaining LaTeX warnings are the known `fancyhdr`/`microtype` preamble warnings; style checker reports only two cadence warnings.
 - Ran complete duplicate review board: six named standpoint seats with Codex and the same six with Opus. Outputs and synthesis are in `notes/review-board/`. Main signal: the architecture works, but the next pass should protect the order/stabilization distinction, clarify `kind` scope, clean up stabilizer terminology, and add or defer a worked micro-case.
+- Completed the follow-up revision pass: declared inclusive `kind`, split Q4 ordering from Q5 stabilization, removed evidential order as a worldly ordering relation, allowed robust stability without an identified separable stabilizer, added a compact truth-tracking evaluation micro-case, rewrote the conclusion around two axes, downgraded the Boyd attribution to "broadly Boydian", and made the AI acknowledgement less version-specific. Also corrected central `boyd1999` pagination to 141--185 after web verification.

@@ -35,3 +35,13 @@
 2026-06-13 — Use "network order" more broadly than Khalidi only with an explicit guardrail. Reason: linguistic and social cases may involve functional, normative, or evidential ordering, but a full Khalidian natural-kind claim still needs causal, causal-historical, or causal-normative support.
 
 2026-06-13 — Do not call typological measurement design a stabilizer of the profile. Reason: in "Naturalizing Typological Kinds," measurement design supplies the audit trail and decision rules; the stabilizers are acquisition, processing, diachrony, discourse pressure, and transmission mechanisms.
+
+2026-06-13 — Treat Q4 as the ordering-relation question and Q5 as the stabilization question. Reason: the duplicate review board and external review showed that "stabilizer" was still doing too much work; order explains why co-availability is non-accidental, while stabilization explains persistence, recurrence, or return.
+
+2026-06-13 — Treat order and stabilization as orthogonal axes in the conclusion. Reason: network order is not a rung between stability and maintenance; a profile can be strong on the order axis and weak on the stabilization axis, or the reverse.
+
+2026-06-13 — Use `kind` inclusively for any projectibility profile, with `natural kind` and `homeostatic` as stronger separable claims. Reason: the Khalidi guardrail makes the sense of `kind` matter.
+
+2026-06-13 — Edit the central `boyd1999` pagination to 141--185. Reason: PhilPapers, the Stanford Encyclopedia species bibliography, Springer references, and PMC-indexed bibliographies support 141--185; the 141--186 listing appears to come from a ResearchGate draft/listing.
+
+2026-06-13 — Make the AI acknowledgement less version-specific: "OpenAI Codex and Claude Opus." Reason: exact model strings are more likely to go stale than tool-family names.
