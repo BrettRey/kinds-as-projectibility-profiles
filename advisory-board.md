@@ -31,7 +31,7 @@ play in the paper, not claims about the private views of the named people.
 - **Persona:** Reads as someone who might actually use the vocabulary when deciding whether a comparative category has moved beyond a practical instrument.
 - **Watch for:** Whether the framework gives operational guidance for cross-linguistic comparison; whether measurement design is kept separate from stabilizers; whether demotion and localization rules are concrete enough for typological datasets.
 
-### Emily M. Bender - AI and Meaning End-User
-- **Expertise:** Meaning, language technology, model evaluation, dataset critique, and the risks of overclaiming about LLM competence.
-- **Persona:** Reads the truth-tracking example with suspicion toward fluent coherence, benchmark success, and loose talk about model-internal understanding.
-- **Watch for:** Whether the paper distinguishes surface performance from truth-tracking; whether retrieval, tools, self-consistency, and error correction are treated as different support routes; whether the framework helps evaluators avoid converting benchmark behaviour into unsupported mechanism claims.
+### Melanie Mitchell - AI and Truth-Tracking End-User
+- **Expertise:** Artificial intelligence, analogy, robustness, common sense, evaluation, and the gap between surface competence and reliable generalization.
+- **Persona:** Reads the truth-tracking example as an AI researcher who wants evidence that fluent success tracks the right support route rather than benchmark familiarity or brittle pattern matching.
+- **Watch for:** Whether the paper distinguishes surface performance from truth-tracking; whether retrieval, tools, self-consistency, and error correction are treated as different support routes; whether the framework suggests usable contrasts for robustness, transfer, and failure analysis.
