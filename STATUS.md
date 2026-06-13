@@ -1,7 +1,7 @@
 # STATUS
 
 **Last updated:** 2026-06-13
-**State:** Weinberger/control-point and prose-rhythm pass built and ready to circulate.
+**State:** GFA positioning pass built and ready to circulate.
 **Next action:** Commit and push revised circulation draft.
 **Blocker:** None.
 
@@ -46,3 +46,6 @@ This should be a synthetic position paper, not a full new theory paper. Its job 
 - Added Weinberger 2026 as the third external pressure point: Slater for stability, Khalidi for order, Weinberger for control. Added a verified local bibliography entry for `Homeostasis and Causal Control` with volume 41, issue 2, article 18, DOI `10.1007/s10539-026-10018-8`.
 - Completed a prose-rhythm pass: reduced the non-deliberate `The X is` paragraph starts, shortened the §4 level catalogue, removed the flat Boydian programmatic-role sentence, compressed the roadmap, and moved the conclusion to end on the five profile questions. Preserved the §4 isocolon and §5 failure-mode checklist cadence by design.
 - Rebuilt successfully with `make`; final log scan shows no unresolved citation/reference warnings and no overfull/underfull boxes. Remaining LaTeX warnings are the known `fancyhdr`/`microtype` preamble warnings. Style checker reports one intentional cadence warning for the §5 failure-mode checklist.
+- Added the GFA positioning block in §1 after verifying the chapter against UMN Manifold and Thomas Reydon's selected-papers page. The paper now concedes the structural overlap with Ereshefsky and Reydon's grounded functionality account, keeps the strong inference-first line, and treats stable microbial re-identification and descent-based taxonomy as projections rather than counterexamples.
+- Added Ludwig 2018 as the constructive contrast: keep kind talk, but replace the single kind/non-kind line with support tiers and scope conditions. Verified the Ludwig entry against Cambridge Core and Wageningen Research Portal.
+- Final build after the GFA pass succeeded via explicit XeLaTeX/Biber sequence. PDF remains 8 pages; final log scan shows no unresolved citation/reference warnings and no overfull/underfull boxes. Remaining warnings are the known `fancyhdr`/`microtype` preamble warnings.

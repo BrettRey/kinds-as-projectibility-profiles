@@ -51,3 +51,11 @@
 2026-06-13 — Use Weinberger 2026 as the external anchor for the control point. Reason: Slater marks stability, Khalidi marks order, and Weinberger's account of homeostasis and causal control marks the strict controller tier.
 
 2026-06-13 — Add a project-local verified Weinberger entry rather than editing the central bibliography. Reason: the central house-style bibliography currently has unrelated uncommitted changes; the local entry preserves the issue number supplied by the publisher/Crossref without bundling central-bib churn into this paper commit.
+
+2026-06-13 — Position the paper as close to Ereshefsky and Reydon's grounded functionality account, not as a distant alternative. Reason: GFA already has a functionality condition, a world-side grounding condition, and a demotion case for phenetics; the difference is granularity and the stronger inference-first function.
+
+2026-06-13 — Keep the strong inference-first line against GFA. Reason: stable re-identifiability and descent-based taxonomy can be treated as projections in the broad sense (marker to re-identifiable group; membership to shared ancestry), so the paper can absorb GFA's anti-induction cases without softening into aim pluralism.
+
+2026-06-13 — Use Canadian permanent resident as the social/conventional hinge against GFA. Reason: GFA classifies constitutively dependent categories as non-natural, while this paper treats them as scoped kinds when they license institution-bounded projections; this makes the support-tier view concrete.
+
+2026-06-13 — Add Ludwig 2018 as the constructive contrast. Reason: Ludwig recommends letting go of "natural kind"; this paper keeps kind talk by replacing the single kind/non-kind boundary with tiers of support and declared scope.
