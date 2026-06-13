@@ -34,3 +34,4 @@ This should be a synthetic position paper, not a full new theory paper. Its job 
 - Drafted `main.tex` into a compact 2,667-word position paper with six sections: introduction, profile package, projectibility priority, cross-level portability, failure modes/demotion, and conclusion.
 - Added `references-local.bib` with a verified local entry for the current deitality paper title because the central bibliography still has an older subtitle for that item.
 - Built successfully with `make`; final log scan showed no unresolved citation/reference warnings and no overfull/underfull boxes. Remaining style-script output is cadence warnings in definition-heavy paragraphs.
+- Added `README.md` and CC BY 4.0 `LICENSE` for the public GitHub repository.

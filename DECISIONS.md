@@ -17,3 +17,7 @@
 2026-06-13 — Use a nested role taxonomy: controllers are maintainers, maintainers are stabilizers, and stabilizers support profiles. Reason: the claim that homeostasis is a demanding subcase is a containment claim, not a loose family-resemblance claim.
 
 2026-06-13 — Add a local verified deitality bibliography entry under a new key, rather than editing the central bibliography. Reason: the central entry uses an older subtitle, while the current local/public paper title is "Definiteness and Deitality in English: A Projectibility-First Account"; central-bib edits should be handled deliberately later.
+
+2026-06-13 — License the public repository under CC BY 4.0. Reason: the primary artifact is an academic manuscript and notes, not reusable software; CC BY matches open scholarly reuse and the licensing pattern used for related paper repositories.
+
+2026-06-13 — Use the public GitHub repository name `kinds-as-projectibility-profiles`. Reason: lower-case hyphenated names are more readable in public URLs while still matching the paper title.
