@@ -21,3 +21,17 @@
 2026-06-13 — License the public repository under CC BY 4.0. Reason: the primary artifact is an academic manuscript and notes, not reusable software; CC BY matches open scholarly reuse and the licensing pattern used for related paper repositories.
 
 2026-06-13 — Use the public GitHub repository name `kinds-as-projectibility-profiles`. Reason: lower-case hyphenated names are more readable in public URLs while still matching the paper title.
+
+2026-06-13 — Reserve `profile` for the worldly property-and-relation pattern, not the whole analytic bundle of diagnostics, stabilizers, scope conditions, and failure modes. Reason: this closes the profile-as-representation/profile-as-worldly-structure slippage and makes the slogan "stabilized by mechanisms" coherent.
+
+2026-06-13 — Define `stabilizer` as what explains the non-accidental co-availability of projected-from and projected-to properties, not as any factor that makes a projection reliable. Reason: the broader wording risked making stabilization tautological.
+
+2026-06-13 — Treat Q3 as the structural/synchronic non-accidentality question and Q4 as the modal/diachronic stabilization question. Reason: this keeps Khalidian network order and stabilizing persistence from collapsing into one evidential demand.
+
+2026-06-13 — Leave the central `boyd1999` bibliography entry unchanged for now, despite verifying that pp. 141--185 is better supported than 141--186. Reason: `references.bib` is a central symlink and project instructions require an explicit request before editing central bibliography from inside this project.
+
+2026-06-13 — Treat Slater's stability as already projectibility-shaped, not as bare recurrence. Reason: Slater's stable property cluster view asks whether observing enough of a subcluster licenses expectations about the larger cluster; this paper adds the stronger-securing taxonomy rather than adding projectibility from scratch.
+
+2026-06-13 — Use "network order" more broadly than Khalidi only with an explicit guardrail. Reason: linguistic and social cases may involve functional, normative, or evidential ordering, but a full Khalidian natural-kind claim still needs causal, causal-historical, or causal-normative support.
+
+2026-06-13 — Do not call typological measurement design a stabilizer of the profile. Reason: in "Naturalizing Typological Kinds," measurement design supplies the audit trail and decision rules; the stabilizers are acquisition, processing, diachrony, discourse pressure, and transmission mechanisms.

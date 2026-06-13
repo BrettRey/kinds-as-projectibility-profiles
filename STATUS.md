@@ -1,8 +1,8 @@
 # STATUS
 
 **Last updated:** 2026-06-13
-**State:** First full draft written and built.
-**Next action:** Do a prose/content pass on `main.tex`, with special attention to whether Section 4 stays illustrative rather than becoming an evidence burden.
+**State:** Source-reread revision built and opened; ready to commit and push.
+**Next action:** Commit and push the source-checked draft. Later: decide whether to edit the central `boyd1999` pagination.
 **Blocker:** None.
 
 ## Working Thesis
@@ -35,3 +35,7 @@ This should be a synthetic position paper, not a full new theory paper. Its job 
 - Added `references-local.bib` with a verified local entry for the current deitality paper title because the central bibliography still has an older subtitle for that item.
 - Built successfully with `make`; final log scan showed no unresolved citation/reference warnings and no overfull/underfull boxes. Remaining style-script output is cadence warnings in definition-heavy paragraphs.
 - Added `README.md` and CC BY 4.0 `LICENSE` for the public GitHub repository.
+- Revised `main.tex` after follow-up review: reserved `profile` for the worldly property-and-relation pattern, moved diagnostics/stabilizers/failure modes into the profile specification, narrowed `stabilizer`, clarified the Q3/Q4 split, promoted the decorative-mechanism test into Section 3, made the truth-tracking example prediction-first, and added the regulative-contribution/constitutive-thesis caveat.
+- Web-checked Boyd 1999 pagination. PhilPapers, Stanford Encyclopedia, Springer references, and other indexed bibliographies mostly give pp. 141--185; a ResearchGate draft/listing gives 141--186. Central `references.bib` still has 141--186 pending explicit central-bib edit.
+- Reread the four portfolio anchor papers one by one and checked the external load-bearing sources via local source notes/text. Source-grounded fixes: credited Slater's stability as already projectibility-shaped, added Boyd's programmatic/explanatory definition distinction, added a Khalidi guardrail for non-causal extensions of network order, separated typological measurement design from actual stabilizers, and sharpened the truth-tracking route-specific prediction.
+- Rebuilt and opened `main.pdf`; log scan showed no unresolved citation/reference warnings and no overfull/underfull boxes. Remaining LaTeX warnings are the known `fancyhdr`/`microtype` preamble warnings; style checker reports only two cadence warnings.
