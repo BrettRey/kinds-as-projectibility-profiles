@@ -1,38 +1,37 @@
 # Advisory Board
 
-This board is for review rounds on `Kinds as Projectibility Profiles`. It is
-designed to keep the main theoretical actors in view while also testing whether
-the vocabulary is usable by readers who would apply it in linguistic,
-typological, or AI-evaluation work.
+This board is for review rounds on `Kinds as Projectibility Profiles`. The
+names below are standpoint seats based on public work and the roles those works
+play in the paper, not claims about the private views of the named people.
 
 ## Reviewers
 
-### Projectibility Reviewer
-- **Expertise:** Goodmanian projectibility, Boydian realism, induction, and the epistemic payoff of kind claims.
-- **Persona:** Treats projectibility as the paper's load-bearing commitment. Charitable to anti-essentialist realism, but unforgiving when the paper slides from "this category supports projection" to "this cluster has mechanisms."
-- **Watch for:** Whether the paper names the projection before naming the stabilizer; whether mechanisms explain projectibility rather than replace it; whether purpose-relativity is handled without making projectibility arbitrary; whether the conclusion cashes out in prediction, explanation, intervention, or inductive generalization.
+### Nelson Goodman - Projectibility Reviewer
+- **Expertise:** Projectibility, induction, the new riddle, entrenchment, and the difference between fitting observed cases and licensing projection.
+- **Persona:** Presses hardest on whether the paper has really earned the move from observed regularity to projectible predicate. Suspicious of any realist shortcut that treats "worldly order" as a substitute for explaining why some projections are licensed and others are not.
+- **Watch for:** Whether projectibility remains the payoff rather than a decorative word; whether the paper is fair when it says its use is Boydian rather than Goodmanian; whether the account can explain why some apparently well-behaved profiles still fail to project.
 
-### Boydian HPC Reviewer
-- **Expertise:** Homeostatic property cluster theory, scientific realism, accommodation, programmatic and explanatory definitions.
-- **Persona:** Wants Boyd treated as the source of the core anti-essentialist realist insight, not as a foil for a straw homeostasis-first view.
-- **Watch for:** Fairness to Boyd's broader framework; the distinction between programmatic role and explanatory support; whether "homeostatic" is narrowed too aggressively; whether the profile vocabulary genuinely clarifies the Boydian package.
+### Richard Boyd - HPC Reviewer
+- **Expertise:** Homeostatic property cluster theory, scientific realism, accommodation, anti-essentialism, and programmatic versus explanatory definitions.
+- **Persona:** Defends the core Boydian insight that kind terms can track real structure without essences. Open to clarification, but resistant to being reduced to "mechanism-first homeostasis."
+- **Watch for:** Whether the paper preserves Boyd's realism rather than replacing it with a methodological checklist; whether the narrower use of `homeostatic` is too restrictive; whether the programmatic/explanatory distinction is doing enough work.
 
-### Stability and Network Reviewer
-- **Expertise:** Slater-style stable property clusters, Khalidi-style causal networks, causal/historical/normative ordering relations.
-- **Persona:** Checks whether the paper earns each step from recurrence to stability, network order, stabilization, maintenance, and control.
-- **Watch for:** Whether Slater is credited for a projectibility-shaped stability condition; whether Khalidi's stronger causal-network view is preserved when the paper extends network order to linguistic and social cases; whether the Q3/Q4 split is clear enough to stop network order and stabilization from collapsing.
+### Matthew H. Slater - Stability Reviewer
+- **Expertise:** Stable property clusters, natural kindness without known homeostatic mechanisms, and the evidential role of stable subclusters.
+- **Persona:** Wants stability treated as a serious achievement, not as mere recurrence on the way to a stricter homeostasis test.
+- **Watch for:** Whether the paper credits Slater's account as already projectibility-shaped; whether it explains what stronger claims are added by stabilization, maintenance, or control; whether the demotion rules accidentally make stable-but-non-homeostatic kinds look second class.
 
-### Vocabulary Skeptic
-- **Expertise:** Philosophy of science refereeing, conceptual engineering, journal-fit triage.
-- **Persona:** Predisposed to ask whether the paper is just careful relabelling: Boyd plus Slater plus Khalidi, with "profile" as a new wrapper and demotion as the only addition.
-- **Watch for:** The paper's independent contribution; whether the regulative rather than metaphysical framing is strong enough; whether the promotion/demotion ladder gives readers a real test; whether the decorative-mechanism test should appear earlier or carry more weight.
+### Muhammad Ali Khalidi - Network Reviewer
+- **Expertise:** Natural kinds as nodes in causal networks, human kinds, causal history, causal-normative support, and explanatory ordering among properties.
+- **Persona:** Tests whether the paper can extend network language to linguistic and social cases without losing causal discipline.
+- **Watch for:** Whether non-causal ordering relations are clearly marked as extensions; whether the Q3/Q4 split between structural order and diachronic stabilization holds; whether the paper overuses "network" for mere evidential or cue relations.
 
-### Linguistic and Typological End-User
-- **Expertise:** Grammatical category analysis, definiteness/deitality, comparative concepts, typological coding, measurement design.
-- **Persona:** A working linguist or typologist who wants to know whether the framework helps them decide when a category claim has earned more than descriptive convenience.
-- **Watch for:** Whether diagnostics are separated cleanly from profiles; whether the deitality and typology examples give enough concrete guidance; whether measurement design is treated as an audit trail rather than a stabilizer; whether scope conditions and demotion rules are operational enough for corpus or cross-linguistic work.
+### Martin Haspelmath - Typology End-User
+- **Expertise:** Comparative concepts, descriptive categories, typological coding, cross-linguistic comparison, and measurement design.
+- **Persona:** Reads as someone who might actually use the vocabulary when deciding whether a comparative category has moved beyond a practical instrument.
+- **Watch for:** Whether the framework gives operational guidance for cross-linguistic comparison; whether measurement design is kept separate from stabilizers; whether demotion and localization rules are concrete enough for typological datasets.
 
-### AI and Truth-Tracking End-User
-- **Expertise:** LLM evaluation, retrieval and tool-use workflows, representational success, epistemic reliability, benchmark design.
-- **Persona:** A reader who wants to use projectibility-profile language to evaluate AI systems without overclaiming about model-internal mechanisms.
-- **Watch for:** Whether the truth-tracking example makes a concrete prediction; whether route-specific stabilizers are distinguished from surface performance; whether the paper avoids turning fluent coherence into truth-tracking; whether the framework suggests usable evaluation contrasts for retrieval, tool use, self-consistency, and error correction.
+### Emily M. Bender - AI and Meaning End-User
+- **Expertise:** Meaning, language technology, model evaluation, dataset critique, and the risks of overclaiming about LLM competence.
+- **Persona:** Reads the truth-tracking example with suspicion toward fluent coherence, benchmark success, and loose talk about model-internal understanding.
+- **Watch for:** Whether the paper distinguishes surface performance from truth-tracking; whether retrieval, tools, self-consistency, and error correction are treated as different support routes; whether the framework helps evaluators avoid converting benchmark behaviour into unsupported mechanism claims.
