@@ -65,3 +65,7 @@
 2026-06-13 — Add explicit referee-preemption guardrails without creating an objections section. Reason: the Goodman circularity, scope-gerrymandering, stabilizer-relativity, dependence-pluralism, and deflated-kind objections can each be answered locally in the existing argument.
 
 2026-06-13 — Keep humour implicit. Reason: the taxonomy already has dry wit in `decorative mechanism`, `over-homeostatization`, and the promotion ladder; visible jokes would weaken the paper's disciplinary tone.
+
+2026-06-13 — Distinguish `category`, `profile`, and `kind claim` explicitly. Reason: the compact slogan was starting to collapse the classificatory item, the worldly support pattern, and the assertion of standing; the paper's permissive use of `kind` is cleaner when those roles stay separate.
+
+2026-06-13 — Reserve "return" language for controllers, not generic stabilizers. Reason: stabilizers explain persistence or recurrence; maintainers actively preserve or regenerate; controllers add corrective restoration after perturbation.

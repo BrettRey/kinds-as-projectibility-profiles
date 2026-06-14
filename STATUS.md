@@ -1,8 +1,8 @@
 # STATUS
 
 **Last updated:** 2026-06-13
-**State:** Objection-preemption pass built and ready to circulate.
-**Next action:** Commit and push revised circulation draft.
+**State:** Calibration pass built and ready to circulate.
+**Next action:** Circulate or run one final read-through in the PDF.
 **Blocker:** None.
 
 ## Working Thesis
@@ -53,3 +53,5 @@ This should be a synthetic position paper, not a full new theory paper. Its job 
 - Assessed Barrett and Miller's 2026 categorization paper as adjacent but not necessary for this vocabulary note. Decision: leave it uncited here to avoid pulling the paper toward neural mechanism and allostasis.
 - Assessed humour options. Decision: keep the paper's existing dry wit in the taxonomy, but add no visible jokes in this pass.
 - Final build after the objection-preemption pass succeeded via explicit XeLaTeX/Biber sequence. PDF is 9 pages; final log scan shows no unresolved citation/reference warnings and no overfull/underfull boxes. Remaining warnings are the known `fancyhdr`/`microtype` preamble warnings.
+- Completed the calibration/category-cleanup pass: distinguished `category`, `profile`, and `kind claim`; made the regulative contribution more explicit; moved the GFA "inference is broader than induction" point into the body; tightened the stabilizer/maintainer/controller wording so return is reserved for control; fixed category/profile slips in the typology, social-practice, abstract, and conclusion sentences.
+- Rebuilt successfully with `make`; PDF remains 9 pages. PDF text has none of the stale typo strings or category/profile slips. Log scan shows no unresolved citation/reference warnings and no overfull/underfull boxes. Remaining warnings are the known `fancyhdr`/`microtype` preamble warnings.
