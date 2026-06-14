@@ -342,22 +342,21 @@ audit trail, not a stabilizer. None of those should be collapsed into a
 universal language-internal category.
 
 Truth-tracking in large language models supplies a different portability test.
-The concrete prediction is contrastive: self-consistency or fluent coherence
-should help where coherence is the missing support, while retrieval or tools
-should help only when they strengthen the needed stabilizer. That contrast
-follows if representational success depends on partially coupled routes such as
-perception, testimony, coherence, measurement, intervention, error-correction,
-and practical success \citep{reynolds2026truthTrackingProfiles}. Such a model
-can participate strongly in some routes and weakly in others; surface
-improvement and truth-tracking improvement can come apart.
+The question isn't just whether an intervention makes answers look better. It
+asks which route to truth the intervention strengthens. A model may depend on
+several partially coupled routes: coherence among its outputs, retrieved
+documents, tool use, measurement, error-correction, testimony, or practical
+success \citep{reynolds2026truthTrackingProfiles}. Because those routes can
+diverge, surface improvement and truth-tracking improvement can diverge too.
 
-A simple evaluation profile would pre-register the missing support. If answers
-to document-grounded questions fail by making unsupported claims, retrieval
-should improve citation-grounded accuracy where self-consistency only improves
-fluency. If retrieval helps only when the supplied passages are relevant and
-used, it's earned its role. If fluent agreement rises while unsupported claims
-remain, the profile is coherence-stabilized rather than truth-tracking in that
-setting.
+The concrete prediction is contrastive. Self-consistency or fluent coherence
+should help where coherence is the missing support. Retrieval or tools should
+help only when they strengthen the support that was actually missing. A simple
+evaluation profile would pre-register that missing support. If
+document-grounded answers fail by making unsupported claims, retrieval should
+improve citation accuracy where self-consistency only improves fluency. If
+fluent agreement rises while unsupported claims remain, the profile is
+coherence-stabilized rather than truth-tracking in that setting.
 
 In each case, the same vocabulary applies without imposing the same mechanism.
 The \term{deitality} profile is grammatical and distributional. The typological
