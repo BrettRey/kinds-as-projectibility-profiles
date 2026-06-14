@@ -32,6 +32,9 @@ This should be a synthetic position paper, not a full new theory paper. Its job 
 - PhilArchive preprint is live at <https://philarchive.org/rec/REYKAP-2>.
 - Built the PhilArchive-ready PDF as `Kinds_as_Projectibility_Profiles-Support_Grades_and_Demotion_Rules.pdf`.
 - Triggered publication-surface updates for the portfolio, website publications list, CV, and central bibliography.
+- Shipped the paper repo at commit `3bced6b` (`Release PhilArchive preprint version`) and pushed the website publication/CV update at commit `ceeacea`.
+- Shipped the shared bibliography update in `.house-style` at commit `792f786`, adding `reynolds2026kindsProjectibilityProfiles`.
+- Remaining untracked files are `.agent` review-board scratch artifacts, intentionally left out of the public paper commit.
 
 ### 2026-06-13
 

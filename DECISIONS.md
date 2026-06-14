@@ -71,3 +71,13 @@
 2026-06-13 — Reserve "return" language for controllers, not generic stabilizers. Reason: stabilizers explain persistence or recurrence; maintainers actively preserve or regenerate; controllers add corrective restoration after perturbation.
 
 2026-06-13 — Include Boyd's field-relativity only in a contained footnote. Reason: Boyd's disciplinary matrix is the closest precedent for the paper's purpose/scope machinery, but the note should keep matrix/purpose distinct from social field or institution and treat matrix homeostasis as a support claim to be earned rather than assumed.
+
+2026-06-14 — Use the final public title "Kinds as Projectibility Profiles: Support Grades and Demotion Rules." Reason: the support-grade ladder and demotion machinery are the paper's distinctive export, and the subtitle makes that clear for PhilArchive and future citation.
+
+2026-06-14 — Talk about internal gradience, historical contingency, and context-sensitivity rather than fuzzy boundaries. Reason: the view allows gradience within kind claims without committing to fuzzy boundary metaphysics.
+
+2026-06-14 — Use subsectioning in Section 2. Reason: the profile package had become dense enough that readers need visible anchors for projection/profile, order/stabilization, and scope/failure.
+
+2026-06-14 — Treat the deitality discussion as a compact worked case that points to the separate deitality paper rather than reproducing that analysis. Reason: this paper should remain a citable vocabulary/synthesis note, while the detailed linguistic argument lives in the companion paper.
+
+2026-06-14 — Leave the review-board scratch outputs untracked. Reason: the public repo should carry the manuscript, status, decisions, source, bibliography, and upload PDF; `.agent` reviewer transcripts are process artifacts rather than publication artifacts.
