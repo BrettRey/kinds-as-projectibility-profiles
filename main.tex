@@ -3,6 +3,10 @@
 % House style preamble
 \input{.house-style/preamble.tex}
 
+% Print unpublished manuscript titles like article titles rather than standalone
+% works.
+\DeclareFieldFormat[unpublished]{title}{#1\isdot}
+
 % Update PDF metadata
 \hypersetup{
   pdftitle={Kinds as Projectibility Profiles},
@@ -341,16 +345,16 @@ and literate or institutional transmission. Measurement design supplies the
 audit trail, not a stabilizer. None of those should be collapsed into a
 universal language-internal category.
 
-Large-language-model answers supply a different portability test. The candidate
-kind claim concerns \term{truth\mbox{-}tracking answers}: outputs whose observable
-features and support structures license expectations about whether they track
-the relevant evidential target. Rather than ask only whether self-consistency,
-retrieval, or tool use improves answers, the profile asks which further
+Large-language-model outputs supply a different portability test. The candidate
+kind claim concerns \term{truth\mbox{-}tracking outputs}: answers or
+recommendations whose features and stabilizing background license expectations
+about truth-relevant success. Rather than ask only whether self-consistency,
+retrieval, or tool use improves performance, the profile asks which further
 expectations those features license: citation accuracy, correction after
-retrieval, calibrated refusal, or successful use. The truth\mbox{-}tracking claim
-may rest on heterogeneous supports, including output coherence, retrieved
-evidence, tool-mediated measurement, error correction, testimonial chains, and
-calibration feedback
+retrieval, calibrated refusal, or successful downstream use. The
+truth\mbox{-}tracking claim may rest on heterogeneous supports, including output
+coherence, record access, tool-mediated calculation or measurement, error
+correction, testimonial chains, and calibration feedback
 \citep{reynolds2026truthTrackingProfiles}. Because those supports can come
 apart, a surface gain doesn't need to be a truth\mbox{-}tracking gain.
 
