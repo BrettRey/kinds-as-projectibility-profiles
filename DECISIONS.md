@@ -69,3 +69,5 @@
 2026-06-13 — Distinguish `category`, `profile`, and `kind claim` explicitly. Reason: the compact slogan was starting to collapse the classificatory item, the worldly support pattern, and the assertion of standing; the paper's permissive use of `kind` is cleaner when those roles stay separate.
 
 2026-06-13 — Reserve "return" language for controllers, not generic stabilizers. Reason: stabilizers explain persistence or recurrence; maintainers actively preserve or regenerate; controllers add corrective restoration after perturbation.
+
+2026-06-13 — Include Boyd's field-relativity only in a contained footnote. Reason: Boyd's disciplinary matrix is the closest precedent for the paper's purpose/scope machinery, but the note should keep matrix/purpose distinct from social field or institution and treat matrix homeostasis as a support claim to be earned rather than assumed.
