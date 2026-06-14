@@ -1,8 +1,8 @@
 # STATUS
 
-**Last updated:** 2026-06-13
-**State:** Calibration pass built and ready to circulate.
-**Next action:** Circulate or run one final read-through in the PDF.
+**Last updated:** 2026-06-14
+**State:** PhilArchive preprint live and local PDF built.
+**Next action:** Decide journal target or circulate the PhilArchive version for feedback.
 **Blocker:** None.
 
 ## Working Thesis
@@ -26,6 +26,12 @@ This should be a synthetic position paper, not a full new theory paper. Its job 
 - Use `references-local.bib` only for verified project-specific additions that do not belong in the central bibliography yet.
 
 ## Session Notes
+
+### 2026-06-14
+
+- PhilArchive preprint is live at <https://philarchive.org/rec/REYKAP-2>.
+- Built the PhilArchive-ready PDF as `Kinds_as_Projectibility_Profiles-Support_Grades_and_Demotion_Rules.pdf`.
+- Triggered publication-surface updates for the portfolio, website publications list, CV, and central bibliography.
 
 ### 2026-06-13
 
