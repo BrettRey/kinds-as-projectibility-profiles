@@ -342,12 +342,13 @@ audit trail, not a stabilizer. None of those should be collapsed into a
 universal language-internal category.
 
 Truth-tracking in large language models supplies a different portability test.
-The question isn't just whether an intervention makes answers look better. It
-asks which route to truth the intervention strengthens. A model may depend on
-several partially coupled routes: coherence among its outputs, retrieved
-documents, tool use, measurement, error-correction, testimony, or practical
-success \citep{reynolds2026truthTrackingProfiles}. Because those routes can
-diverge, surface improvement and truth-tracking improvement can diverge too.
+The question isn't just whether self-consistency, retrieval, or tool use
+improves answers. It asks which route to truth is being strengthened. A model may
+depend on several partially coupled routes: coherence among its outputs,
+retrieved documents, tool use, measurement, error-correction, testimony, or
+practical success \citep{reynolds2026truthTrackingProfiles}. Because those
+routes can diverge, surface improvement and truth-tracking improvement can
+diverge too.
 
 The concrete prediction is contrastive. Self-consistency or fluent coherence
 should help where coherence is the missing support. Retrieval or tools should
