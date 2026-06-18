@@ -13,3 +13,6 @@
 
 # macOS
 .DS_Store
+
+# Review-board scratch and agent process artifacts (kept untracked by decision)
+.agent/
